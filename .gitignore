@@ -1,0 +1,4 @@
+#IGNORE THESE FILES/FOLDERS
+
+mycreds.py
+__pycache__/
